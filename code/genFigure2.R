@@ -141,10 +141,23 @@ relFrequencies50 <-
 # Saving figures
 # ----------------------------------------------------------------------
 
+### PDFs
+
 cairo_pdf("../article/Figure2.pdf", height = 4, width = 7, onefile = TRUE)
 print(relFrequencies50)
 dev.off()
 
 cairo_pdf("../article/Figure2_1000.pdf", height = 4, width = 7, onefile = TRUE)
+print(relFrequencies1000)
+dev.off()
+
+
+### SVGs
+
+svg("../article/Figure2.svg", height = 4, width = 7, onefile = TRUE)
+print(relFrequencies50)
+dev.off()
+
+svg("../article/Figure2_1000.svg", height = 4, width = 7, onefile = TRUE)
 print(relFrequencies1000)
 dev.off()
