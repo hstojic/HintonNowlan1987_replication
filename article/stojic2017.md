@@ -9,19 +9,19 @@ Address:
 Contact:
   - hrvoje.stojic@protonmail.com
 Editor:
-  - Name Surname
+  - Nicolas P. Rougier
 Reviewer:
-  - Name Surname
-  - Name Surname
+  - Anne Urai
+  - Qihong Lu
 Publication:
   received:  Aug, 20, 2017
-  accepted:  Sep, 1, 2015
-  published: Sep, 1, 2015
-  volume:    "**1**"
+  accepted:  Sep, 13, 2017
+  published: Sep, 13, 2017
+  volume:    "**3**"
   issue:     "**1**"
-  date:      Sep 2015
+  date:      Sep 2017
 Repository:
-  article:   "https://github.com/ReScience-Archives/Stojic-2017/tree/master/article"
+  article:   "https://github.com/ReScience-Archives/Stojic-2017/tree/master/article" 
   code:      "https://github.com/ReScience-Archives/Stojic-2017/tree/master/code"
   data:      "https://github.com/ReScience-Archives/Stojic-2017/tree/master/data"
   notebook:  
